@@ -43,6 +43,8 @@ Each business capability is implemented as an independent service running in its
 
 ![Application Architecture](architecture.png)
 
+---
+
 ## Architecture Flow
 
 1. User accesses the UI service.
